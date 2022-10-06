@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title, .coming-soon-container, .submit-container, .submit-border, .input-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: #5c4242;
+    border: 2px solid #523a3a;
+    color: azure;
+    padding: 0px;
+    /* margin: 5px, 20px; */
+
+}
+
+.container_2 {
+    background-color: #5c4242;
+    padding: 45px 20px;
+    border: 4px solid #ffd3b6;
+    margin: 0px;
+}
+
+.container_3 {
+    background-color: #5c4242;
+    padding: 15px 15px;
+    border: 6px solid #904639;
+    margin: 0px;
+}
+
+.container_4 {
+    background-color: #5c4242;
+    padding: 15px 15px;
+    border: 8px solid #dbdab6;
+    margin: 0px;
+}
+
+.container_5 {
+    background-color: #5c4242;
+    padding: 15px 15px;
+    margin: 0px;
+}
+
+.footer, .header {
+    background-color: rgb(94, 88, 81);
+    color: white;
+    margin: 0px;
+    padding: 10px;
+    border: 0px;
+}
+
+.header_contents {
+    display: flex;
+    justify-content: right;
+    margin: 0px;
+}
+
+.para {
+    margin: 5px 5px 0px 5px;
+}
+
+.header
+{
+    border-bottom: 5px solid rgb(158, 163, 158);
+}
+
+.footer{
+    border-bottom: 5px solid darkslategrey;
+}
+
+.contact-containter{
+    background-color: 	#dbdab6;
+    padding-bottom: 50px;
+    border-top: 3px solid #c5c4a3;
+    margin: 0px;
+}
+
+.contact-me{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+}
+
+.email, .name, .submit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+label {
+    display: inline-block;
+    width: 60px;
+}
+
+input {
+    width: 300px;
+    height: 15px;
+}
+
+.submit {
+    background-color: #5c4242;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+    color: azure;
+    padding: 10px 30px;
+    /* margin: 5px, 20px; */
+
+}
+
+.input-border{
+    border: 5px solid #afae91;
+    border-radius: 20px;
+    padding: 10px 40px 0px 40px;
+}
+  .heading{
+    font-size: xx-large;
+ }
+
+ .website-container {
+    background-color: #f7f7f0;
+    margin: 0px;
+    border: 0px;
+    padding: 1px;
+ }
